@@ -1,0 +1,19 @@
+.banner {
+	background-image: url(../../images/Greenland.jpeg);
+	color: black;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+    }
+.banner h1 {
+	font-size: 60px;
+	text-shadow: 3px 3px red;
+
+}
+
+.banner h2 {
+	font-size: 30px
+	font-weight: lighter;
+	text-shadow: 1px 1px red;
+}
+
